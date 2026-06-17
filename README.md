@@ -1,16 +1,119 @@
-## Hi there 👋
-
-<!--
-**DhaneshRadhakrishnan/DhaneshRadhakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-06-17T11:30:50.552Z",
+  "profile": {
+    "title": "Dhanesh",
+    "subtitle": "FullStack Engineer & Ai Developer",
+    "currentWork": "A privacy-first, fully local video surveillance platform that runs a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware no cloud, no data leaving the network.",
+    "currentLearn": "System Architecturing, Application Optimization and Local Ai Deployment",
+    "collaborateOn": "SpringBoot Projects, Next.js and AI projects",
+    "helpWith": "Open to code reviews and feedback on Android (Java) architecture and Cross-Platform applications",
+    "ama": "Android Development, SpringBoot,  React/Next.js, and local AI implementation.",
+    "contact": "dhaneshradhakrishnan2@gmail.com",
+    "funFact": "Singin while Developing feels good! \nGuitar on lap! Coffee on the table!",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0",
+    "blog": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0",
+    "resume": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0"
+  },
+  "social": {
+    "github": "DhaneshRadhakrishnan",
+    "dev": "",
+    "linkedin": "https://www.linkedin.com/in/dhanesh-radhakrishnan/",
+    "codepen": "",
+    "stackoverflow": "https://stackoverflow.com/users/24650803/dhanesh-radhakrishnan",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "https://www.facebook.com/radhakrishnan.dhanesh/",
+    "instagram": "dhanesh_4o4",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "https://medium.com/@dhaneshradhakrishnan2",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "https://www.geeksforgeeks.org/profile/dhaneshradh3io9",
+    "discord": "mr_pyrose",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "android",
+    "appwrite",
+    "arduino",
+    "aws",
+    "bootstrap",
+    "docker",
+    "fastapi",
+    "figma",
+    "firebase",
+    "gcp",
+    "git",
+    "huggingface",
+    "java",
+    "javascript",
+    "mysql",
+    "nextjs",
+    "nodejs",
+    "numpy",
+    "ollama",
+    "photoshop",
+    "php",
+    "postgresql",
+    "postman",
+    "python",
+    "rabbitMQ",
+    "react",
+    "redis",
+    "sass",
+    "seaborn",
+    "spring",
+    "sqlite",
+    "tailwind",
+    "typescript"
+  ]
+}
