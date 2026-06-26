@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhanesh Radhakrishnan
+# Hi 👋, I'm Dhanesh
 ### FullStack Engineer & AI Developer
 
 <p align="left">
