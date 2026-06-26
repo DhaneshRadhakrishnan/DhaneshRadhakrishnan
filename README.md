@@ -21,11 +21,11 @@
 - ⚡ Fun fact **Singin while Developing feels good! 
 Guitar on lap! Coffee on the table!**
 
-- 👨‍💻 All of my projects are available at **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
+- 👨‍💻 All of my projects are available at **[https://github.com/DhaneshRadhakrishnan](https://github.com/DhaneshRadhakrishnan)**
 
 - 📝 I regularly write articles on **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
+- 📄 Know about my experiences **[https://www.linkedin.com/in/dhanesh-radhakrishnan/](https://www.linkedin.com/in/dhanesh-radhakrishnan/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
