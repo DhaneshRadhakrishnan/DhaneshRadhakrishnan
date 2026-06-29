@@ -2,7 +2,7 @@
 ### FullStack Engineer & AI Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DhaneshRadhakrishnan&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dhanesh-Radhakrishnan&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -26,16 +26,16 @@
 ###  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaneshRadhakrishnan&theme=github-dark" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanesh-Radhakrishnan&theme=github-dark" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhaneshRadhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhaneshRadhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhaneshRadhakrishnan&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanesh-Radhakrishnan&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
   <a href="https://linkedin.com/in/dhanesh-radhakrishnan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/DhaneshRadhakrishnan" target="_blank">
+  <a href="https://github.com/Dhanesh-Radhakrishnan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:dhaneshradhakrishnan2@gmail.com">
@@ -63,6 +63,6 @@
   </a>
 </p>
 
-📁 **Portfolio & Projects:** [github.com/DhaneshRadhakrishnan](https://github.com/DhaneshRadhakrishnan)  
+📁 **Portfolio & Projects:** [github.com/DhaneshRadhakrishnan](https://github.com/Dhanesh-Radhakrishnan)  
 📄 **Resume / Experience:** [Google Docs Link](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)  
 📝 **Articles & Updates:** [LinkedIn Activity](https://www.linkedin.com/in/dhanesh-radhakrishnan/)
